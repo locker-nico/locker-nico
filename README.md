@@ -13,6 +13,7 @@ https://github.com/locker-nico/SVD-image-compression
 
 ## Languages
 Python
+JavaScript
 
 <!--
 **locker-nico/locker-nico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
