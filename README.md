@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi I'm Nico 👋
+
+I'm interested in software development and algorithms.
+
+## Projects
+♟ Chess AI
+Minimax algorithm with Alpha-Beta pruning.
+https://github.com/locker-nico/chess-minimax-AI
+
+🖼 SVD Image Compression
+Image compression using singularity value decomposition.
+https://github.com/locker-nico/SVD-image-compression
 
 <!--
 **locker-nico/locker-nico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
