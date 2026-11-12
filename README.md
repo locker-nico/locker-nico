@@ -12,7 +12,7 @@ Image compression using singularity value decomposition.
 https://github.com/locker-nico/SVD-image-compression
 
 Caffeine halflife calculator
-Simple React app that predicts caffeine levels in the bloodstream by an assumed 5-hour-halflife.
+Simple React app that predicts caffeine levels in the bloodstream by an assumed 5-hour-halflife.  
 https://locker-nico.github.io/caffeine_calculator
 
 ## Languages
